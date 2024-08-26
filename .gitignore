@@ -1,0 +1,5 @@
+# neovide log files
+nohup.out
+
+# Python cache and log files
+__pychache__
